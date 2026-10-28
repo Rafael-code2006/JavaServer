@@ -45,6 +45,8 @@ public class MyServer {
         String code;
 
         int test;
+
+        
     }
 
     private static void getRequest(String baseUrl){
